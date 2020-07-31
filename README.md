@@ -1,5 +1,5 @@
 # VGA-Pac-Man
-This is the final project of Computer Organization Winter 2020@ University of Toronto\
+This is the final project of Computer Organization Winter 2020@ [University of Toronto](utoronto.ca)\
 This is a classic game duplicate that runs on a Cortex-A9 processor of Intel DE1-SoC FPGA board
 
 For details please read this [final report](https://docs.google.com/document/d/1Pdub-KGk-uBVVzoWP5Fjtrxbr-GunpaUqp4KIiYNM8g/edit?usp=sharing)
@@ -18,8 +18,8 @@ A VGA display\
 \
 or\
 \
-CPUlator, courtesy of Univesity of Toronto
+[CPUlator](https://cpulator.01xz.net/), courtesy of Univesity of Toronto
 
 ## To run
-Using the CPUlator\
+Using the [CPUlator](https://cpulator.01xz.net/)\
 Please refer to the instructions in our [final report](https://docs.google.com/document/d/1Pdub-KGk-uBVVzoWP5Fjtrxbr-GunpaUqp4KIiYNM8g/edit?usp=sharing)
